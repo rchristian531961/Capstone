@@ -1,10 +1,33 @@
 figcaption{
     position:absolute;
     top:2rem;
-    right:2rem;
-    margin:0 2rem;
+    right:1rem;
+    margin:0 1rem;
     color:white;
     font-size:1.5em;
+    /* border:2px solid red; */
+    min-width:50%;
+    min-height:60%;
+    max-width:52%;
+    max-height:70%;
+}
+
+/*For Welcome*/
+#spacing_h1{
+    margin-left:20%;
+}
+
+#spacing_h1_2{
+    margin-left:40%;
+    margin-bottom:5%;
+}
+
+#centering{
+    text-align:center;
+}
+
+#cont_spacing{
+    margin-bottom:10px;
 }
 
 @media screen and (max-width:768px){

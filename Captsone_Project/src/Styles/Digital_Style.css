@@ -1,0 +1,22 @@
+.MainContainer{
+    display:flex;
+    border:5px solid black;
+    justify-content: space-evenly;
+}
+
+.MainContainer .LeftContainer {
+    border:2px solid red;
+    
+}
+
+.MainContainer .RightContainer{
+    border:2px solid blue;
+    
+}
+
+
+
+
+/*
+Add Responsive Below
+*/

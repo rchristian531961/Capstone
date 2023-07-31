@@ -5,8 +5,7 @@ import Welcome from "./Welcome"
 import {Container} from "react-bootstrap"
 
 
-
-function ImageIntro() {
+function IntroImage() {
   return (
   <>
   <div>
@@ -15,6 +14,7 @@ function ImageIntro() {
         <Image src={Students} alt="Student_Photo" fluid />
         <figcaption>
             <Welcome/>
+          
         </figcaption>
         </figure>
         

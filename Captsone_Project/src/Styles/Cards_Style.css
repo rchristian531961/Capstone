@@ -1,0 +1,10 @@
+.card_items{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
+
+.space_items{
+    margin-right:1rem;
+    border:none;
+}
